@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.main-content {
+    margin-left: 240px; /* Відступ під бічну панель */
+    padding: 2rem;
+}
